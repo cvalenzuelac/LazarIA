@@ -1,0 +1,14 @@
+names:
+- Green
+- Red
+nc: 2
+roboflow:
+  license: MIT
+  project: traffic-light-kuylw
+  url: https://universe.roboflow.com/public-ra7iu/traffic-light-kuylw/dataset/2
+  version: 2
+  workspace: public-ra7iu
+path: /home/cristian/Desktop/LazarIA/Traffic-Light-2
+test: ../test/images
+train: /home/cristian/Desktop/LazarIA/Traffic-Light-2/train/images
+val: /home/cristian/Desktop/LazarIA/Traffic-Light-2/valid/images
